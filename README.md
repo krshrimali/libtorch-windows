@@ -9,3 +9,10 @@
 
 1. Copy all files to the build directory from `lib/` folder. (If not, error of `torch.dll` not found will come).
 2. `caffe2.lib` not found. Remove from the *Linker -> Input* list.
+
+## Screenshots
+
+Example of code working
+
+<img src="images/libtorch-cpp-successful.PNG"/>
+<img src="images/libtorch-cpp-example-running.PNG/>
